@@ -1,0 +1,96 @@
+{
+  "main": {
+    "name": "Deekshant sharma",
+    "occupation": "",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Deekshant! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "deekshantsharma6@gmail.com",
+    "phone": "+91 7974571895",
+    "address": {
+      "street": "Vinay Nagar",
+      "city": "Gwalior",
+      "state": "Madhya pradesh",
+      "zip": "474003"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sonny.sangha.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/deekshant-sharma-752347139/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/deekshantsharma_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/deeksh1008",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Jiwaji University",
+        "degree": "B.com ,Computer Science",
+        "graduated": "July 2020",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Yosomate pvt. ltd.",
+        "title": "Empoyee",
+        "years": "October 2021 - Present",
+        "description": "Designing my website and maintaining it"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "25%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Deekshant is absolutely excellent, his depth of knowledge & always ready to learn new things. He is a great developer and a great team player. I would recommend him to anyone.",
+        "user": ""
+      }
+    ]
+  }
+}
